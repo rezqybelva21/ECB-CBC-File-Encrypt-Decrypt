@@ -1,0 +1,2 @@
+Halo ini adalah teks rahasia untuk pengujian DES manual mode CBC.
+Pastikan dekripsi nanti menghasilkan teks yang sama persis.
