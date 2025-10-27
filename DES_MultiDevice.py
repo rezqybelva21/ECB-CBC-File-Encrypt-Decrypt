@@ -177,7 +177,7 @@ def send_encrypted_message(key, target_ip, port, message):
 
 def main():
     print("\n===========================================")
-    print("  DES ENCRYPT-DECRYPT MULTI DEVICE (FINAL)")
+    print("  DES ENCRYPT-DECRYPT MULTI DEVICE")
     print("===========================================\n")
 
     mode = input("Pilih mode: \n1. Encrypt & Send\n2. Receive & Decrypt\n>> ").strip()
