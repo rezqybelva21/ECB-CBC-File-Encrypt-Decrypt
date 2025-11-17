@@ -1,7 +1,6 @@
 # HOW TO USE
 
-1. Choose your role (Sender/Receiver)
-2. Input your key (Sender and Receiver should have same key)
+Choose your role (Sender/Receiver)
 
 ## Sender
 - Insert the IP Address from receiver
